@@ -1,4 +1,4 @@
-/* Style icon in nav menu */
+/* Style the burger menu icon in nav menu on mobile screens */
 .icon {
     text-align: right;
 }
@@ -13,6 +13,12 @@
 /* Show menu when user clicks menu icon */
 .show .menu {
     display: block;
+}
+
+.dropdown span:hover {
+    opacity: 0.7;
+    text-decoration: underline;
+    color: rgb(17, 199, 255);
 }
 
 /* Hide menu dropdown content */
@@ -30,6 +36,11 @@
             nav a {
                 text-decoration: none;
                 font-style: normal;
+            }
+            nav a:hover {
+                opacity: 0.7;
+                text-decoration: underline;
+                color: rgb(17, 199, 255);
             }
             /* Style menu items of active pages */
             .active {
