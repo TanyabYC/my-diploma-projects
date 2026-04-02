@@ -1,4 +1,4 @@
-# My Diploma Projects
+# My Study Projects
 The project involved designing and building a mobile-friendly website to present and discuss projects I completed in a user-friendly way. These projects were completed for my diploma in Web Development and Design at <a href="https://www.openpolytechnic.ac.nz/" title="More on Open Polytechnic" target="_blank">Open Polytechnic NZ | Te Pukenga</a>.
 
 The website needed to list the projects on the home page with a quick overview to help users quickly identify which projects they wanted to know more about. Each listed project needed to link to a project page with a more in-depth summary/report of what was involved during the development process. Each project page also needed to link to the source code and live web application or screenshots of the program in action to help users consider the code used to develop the project and view the final product.
